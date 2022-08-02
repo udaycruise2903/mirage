@@ -3,7 +3,7 @@ version:             0.1.0.0
 -- synopsis:
 -- description:
 homepage:            https://github.com/githubuser/mirage#readme
-license:             MIT
+license:             MIT 
 license-file:        LICENSE
 author:              Uday Kiran N
 maintainer:          udaycruise2903@gmail.com
